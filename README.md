@@ -1,6 +1,7 @@
 # wedding-card-castle
 
-castle 의 깃헙청첩장
+castle 의 깃헙청첩장(created by dong.22)
+#고마워요 동
 
 # https://d-h-k.github.io/wedding-card-castle/
 
